@@ -167,7 +167,8 @@ deliverables/
 ├── hbom_summary.md
 └── reflection.md
 ```
-**NOTE: Be sure to include the URL of your public forked GitHub repository in your assignment submission in Canvas.**
+**NOTE:** Be sure to include the URL of your public forked GitHub repository in your assignment submission in Canvas.
+
 ---
 
 ## **Grading Rubric (20 Points Total)**
