@@ -80,8 +80,7 @@ All commands can be executed directly inside your GitHub Codespace using this re
 
 ### Syntax Breakdown
 
-**git:**  
-This invokes the **Git** command-line tool — the version control system used to manage source code repositories.
+**git:** This invokes the **Git** command-line tool — the version control system used to manage source code repositories.
 
 **clone:** Git subcommand that creates a copy of a remote repository (like one hosted on GitHub) on your local machine or Codespace. It:  
 1. Downloads all files and directories from the repo.  
